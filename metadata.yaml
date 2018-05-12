@@ -1,0 +1,31 @@
+_repo: La-situacion-de-Puerto-rico--Las-falacias-de-los-conservadoresy-los-compromisos-del-partido-r__41884
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41884-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2013-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41884'
+  lccn: 03002729
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- Puerto Rico'
+- !lcsh 'Puerto Rico -- Politics and government -- To 1898'
+- !lcc 'F1951'
+title: "La situacion de Puerto-Rico\r\nLas falacias de los conservadores y los compromisos\
+  \ del partido radical"
+url: http://www.gutenberg.org/ebooks/41884
